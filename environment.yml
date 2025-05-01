@@ -3,11 +3,12 @@ channels:
   - defaults
 dependencies:
   - python=3.11.5
-  - black>=24.4.2
+  - black=24.4.2
   - bokeh>=3.4.1
-  - Jupyter>=1.0.0
+  - Jupyter=1.0.0
   - numpy>=1.26.4
-  - pandas>=2.2.2
-  - pip>=24.0
+  - pandas=2.2.2
+  - pip=24.0
   - matplotlib=3.8.4
-  - pyxirr
+  - lightgbm
+  - ydata-profiling>=4.8.3
