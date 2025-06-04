@@ -6,6 +6,7 @@ This repository contains my contributions to the Kaggle community. These project
 - [Titanic - Machine Learning from Disaster](Titanic_Survival_Prediction): Build a model to predict which passengers survived the Titanic shipwreck using a random forest classifier.
 - [Binary Prediction of Poisonous Mushrooms](Binary_Prediction_of_Poisonous_Mushrooms): Classify mushrooms as edible or poisonous based on their physical characteristics.
 - [Predict Podcast Listening Time](predict_podcast_listening_time): Estimate the listening time of a podcast episode.
+- [Predict Calorie Expenditure](predict_calorie_expenditure): Predict calories burnt during a workout. This kaggle competition uses  Root Mean Squared Logarithmic Error (RMSLE) metric.
 
 ## Prerequisites
 To set up the environment, you can either use `pip` or `conda`. Follow the instructions below based on your preferred method.
